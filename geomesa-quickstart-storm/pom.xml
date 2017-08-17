@@ -28,7 +28,7 @@
         <dependency>
             <groupId>org.apache.kafka</groupId>
             <artifactId>kafka_${scala.abi.version}</artifactId>
-            <version>${kafka08.version}</version>
+            <version>${kafka.version}</version>
         </dependency>
         <dependency>
             <groupId>org.apache.storm</groupId>
